@@ -1,9 +1,11 @@
 # image2cartoon
 
 # MUST DO THESE STEPS BEFORE RUNNIG PROGRAM
-## RUN THESE COMMAND IN TERMINAL
-python get-pip.py
-pip install opencv-python
-pip install google-colab
-pip install --upgrade google-api-python-client
 
+## RUN THESE COMMAND IN TERMINAL
+
+<ul>
+<li>python get-pip.py</li>
+<li>pip install opencv-python</li>
+<li>pip install google-colab</li>
+<li>pip install --upgrade google-api-python-client</li></ul>
