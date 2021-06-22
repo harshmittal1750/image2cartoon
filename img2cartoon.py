@@ -3,6 +3,7 @@ import cv2
 import numpy as np
 
 # reading image
+# add your own image and replace the name "2.png"
 img = cv2.imread("2.png")
 
 # Edges
